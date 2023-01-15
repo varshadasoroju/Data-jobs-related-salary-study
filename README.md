@@ -4,7 +4,7 @@ We explore the variations of data related jobs in terms of salary
 
 The salaries dataset we will work with is from ai-jobs. Ai-jobs collects salary information anonymously from professionals all over the world in the AI/ML and Big Data space and makes it publicly available for anyone to use, share and play around with. The data is being updated regularly with new data coming in, usually on a weekly basis. The primary goal is to have data that can provide better guidance in regards to what's being paid globally. So newbies, experienced pros, hiring managers, recruiters and also startup founders or people wanting to make a career switch can make better informed decisions.
 
-The dataset contains one table structured as follow:
+The dataset contains one table structured as follows:
 
 work_year: The year the salary was paid.
 
