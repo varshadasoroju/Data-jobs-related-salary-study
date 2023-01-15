@@ -27,3 +27,5 @@ remote_ratio: The overall amount of work done remotely, possible values are as f
 company_location: The country of the employer's main office or contracting branch as an ISO 3166 country code.
 
 company_size: The average number of people that worked for the company during the year: S: less than 50 employees (small) M: 50 to 250 employees (medium) L: more than 250 employees (large)
+
+https://www.kaggle.com/code/cedricaubin/data-science-salaries-analytics/notebook
